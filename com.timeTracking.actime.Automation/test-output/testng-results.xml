@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T15:18:51 IST" name="Suite" finished-at="2022-10-20T15:18:51 IST" duration-ms="74">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T15:18:51 IST" name="Test" finished-at="2022-10-20T15:18:51 IST" duration-ms="74">
+      <class name="com.timeTracking.actime.Automation.module.ClassA">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="bsConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="bcConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="baConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="baConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baConfig -->
+        <test-method signature="demo1()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="demo1" finished-at="2022-10-20T15:18:51 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="amConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="acConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="abConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassA@114a85c2]" started-at="2022-10-20T15:18:51 IST" name="abConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abConfig -->
+      </class> <!-- com.timeTracking.actime.Automation.module.ClassA -->
+      <class name="com.timeTracking.actime.Automation.module.ClassB">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassB@d78795]" started-at="2022-10-20T15:18:51 IST" name="bcConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="baConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassB@d78795]" started-at="2022-10-20T15:18:51 IST" name="baConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baConfig -->
+        <test-method signature="demo2()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassB@d78795]" started-at="2022-10-20T15:18:51 IST" name="demo2" finished-at="2022-10-20T15:18:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassB@d78795]" started-at="2022-10-20T15:18:51 IST" name="acConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.timeTracking.actime.Automation.module.ClassB@d78795]" started-at="2022-10-20T15:18:51 IST" name="amConfig" finished-at="2022-10-20T15:18:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+      </class> <!-- com.timeTracking.actime.Automation.module.ClassB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
